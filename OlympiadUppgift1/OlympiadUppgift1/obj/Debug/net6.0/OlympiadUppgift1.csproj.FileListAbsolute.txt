@@ -1,0 +1,14 @@
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\bin\Debug\net6.0\OlympiadUppgift1.exe
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\bin\Debug\net6.0\OlympiadUppgift1.deps.json
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\bin\Debug\net6.0\OlympiadUppgift1.runtimeconfig.json
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\bin\Debug\net6.0\OlympiadUppgift1.dll
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\bin\Debug\net6.0\OlympiadUppgift1.pdb
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\obj\Debug\net6.0\OlympiadUppgift1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\obj\Debug\net6.0\OlympiadUppgift1.AssemblyInfoInputs.cache
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\obj\Debug\net6.0\OlympiadUppgift1.AssemblyInfo.cs
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\obj\Debug\net6.0\OlympiadUppgift1.csproj.CoreCompileInputs.cache
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\obj\Debug\net6.0\OlympiadUppgift1.dll
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\obj\Debug\net6.0\refint\OlympiadUppgift1.dll
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\obj\Debug\net6.0\OlympiadUppgift1.pdb
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\obj\Debug\net6.0\OlympiadUppgift1.genruntimeconfig.cache
+C:\Users\alhe06001\source\repos\OlympiadUppgift1\OlympiadUppgift1\obj\Debug\net6.0\ref\OlympiadUppgift1.dll
